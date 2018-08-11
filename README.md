@@ -16,6 +16,22 @@
   - 1 LED for connectivity/update status
   - 1 LED for pointer marker/tip
 
+### High level functions
+
+calibrate()
+
+get_location() 
+
+get_orientation() -> orient()
+
+connectivity_status()
+
+get_status()
+
+orient()
+
+track() -> track_interval() -> smoothing(var%)
+
 ##### To Look into - Starmap project/library integration 
 
 - Scripting in Stellarium

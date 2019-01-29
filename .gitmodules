@@ -1,0 +1,3 @@
+[submodule "submodules/star-api"]
+	path = submodules/star-api
+	url = https://github.com/timothyyu/star-api.git

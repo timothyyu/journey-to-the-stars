@@ -35,15 +35,14 @@ track() -> track_interval() -> smoothing(var%)
 ##### To Look into - Starmap project/library integration 
 
 - Scripting in Stellarium
-
   - http://stellarium.org/
 
 - [Star-api](https://github.com/HacktheUniverse/star-api) (currently down, see issue #48; potential to host locally if data source can be obtained)
-
   - Fork repository, and then include as git submodule in project
-  - Issue #48: https://github.com/HacktheUniverse/star-api/issues/48
+    - Issue #48: https://github.com/HacktheUniverse/star-api/issues/48
     - Dataset source (American Museum of Natural History): <http://research.amnh.org/users/abbott/dudata/> 
-
+    - StarAPI video demo presentation (https://www.youtube.com/watch?v=LQ0CJmSAUWE&feature=youtu.be&list=UUIuhq9LTleLC-GMdAOvvZcg)
+        + Slides: https://speakerdeck.com/surenm/building-rest-api-for-digital-universe-1
 - [D3-Celestial](https://github.com/ofrohn/d3-celestial) 
 
 - http://deepspacemap.com/#bookmark
@@ -51,6 +50,7 @@ track() -> track_interval() -> smoothing(var%)
 - https://opendata.stackexchange.com/questions/6171/where-can-i-find-a-rest-api-of-stars-and-constellations
 
   - http://www.strudel.org.uk/lookUP/about.html
-  - http://simbad.u-strasbg.fr/simbad/
+  - Source of LookUP data: http://simbad.u-strasbg.fr/simbad/
 
-  ​
+  ​https://medium.com/@Keithweaver_/controlling-dc-motors-using-python-with-a-raspberry-pi-40-pin-f6fa891dc3d
+  https://www.adafruit.com/product/2348
